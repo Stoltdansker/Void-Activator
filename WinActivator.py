@@ -1,4 +1,4 @@
-import os, time, fade
+import os, time, fade, ctypes
 from os import system
 from pystyle import Colors
 
@@ -23,7 +23,8 @@ logoc = f"""
                                                     ╚╦══════════════╦╝
                                                      ╚══════════════╝"""
 logocfade = fade.pinkred(logoc)
-
+titletext = f"Windows Key Activator | Made by: Ошибка"
+ctypes.windll.kernel32.SetConsoleTitleW(titletext)
 print(logocfade)
 ch = int(input(f"{Colors.red}╔═[Root@Choose] \n╚══> {Colors.white}"))
 if ch == 1:
