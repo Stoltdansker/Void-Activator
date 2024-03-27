@@ -36,7 +36,7 @@ elif ch == 3:
 elif ch == 4:
     os.system(f"slmgr /ipk {Ent}")
 elif ch == 5:
-    os.system("start \"\" https://discord.gg/cek3zNn2HR")
+    os.system("start \"\" https://discord.gg/Cas8Fj3P8t")
 elif ch == 6:
     SystemExit("Exitting...")
 
