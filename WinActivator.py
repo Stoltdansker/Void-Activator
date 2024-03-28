@@ -23,7 +23,7 @@ logoc = f"""
                                                   ╚╦══════════════════╦╝
                                                    ╚══════════════════╝"""
 logocfade = fade.pinkred(logoc)
-titletext = f"Windows Key Activator | Made by: Ошибка"
+titletext = f"Windows Key Activator | Made by: SpermKlat"
 ctypes.windll.kernel32.SetConsoleTitleW(titletext)
 print(logocfade)
 ch = int(input(f"{Colors.red}╔═[Root@Choose] \n╚══> {Colors.white}"))
