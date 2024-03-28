@@ -18,10 +18,10 @@ logoc = f"""
                                                 ║║ [4] ║ Win Enterprise ║║
                                                 ║║ [5] ║     Discord    ║║
                                                 ╚╣ [6] ║      Exit      ╠╝
-                                                 ╚══╦══╩═════════════╦══╝
-                                                    ║ Made by Ошибка ║
-                                                    ╚╦══════════════╦╝
-                                                     ╚══════════════╝"""
+                                                 ╚╦════╩═══════════════╦╝
+                                                  ║ feds.lol/Spermklat ║
+                                                  ╚╦══════════════════╦╝
+                                                   ╚══════════════════╝"""
 logocfade = fade.pinkred(logoc)
 titletext = f"Windows Key Activator | Made by: Ошибка"
 ctypes.windll.kernel32.SetConsoleTitleW(titletext)
