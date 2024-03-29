@@ -26,6 +26,11 @@ logocfade = fade.pinkred(logoc)
 titletext = f"Windows Key Activator | Made by: SpermKlat"
 ctypes.windll.kernel32.SetConsoleTitleW(titletext)
 print(logocfade)
+if not pyuac.isUserAdmin():
+    pyuac.runAsAdmin()
+    sys.exit()
+else:
+    pass
 ch = int(input(f"{Colors.red}╔═[Root@Choose] \n╚══> {Colors.white}"))
 if ch == 1:
     os.system(f"slmgr /ipk {Home}")
