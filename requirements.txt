@@ -3,3 +3,5 @@ os
 time
 fade
 ctypes
+pyuac
+sys
