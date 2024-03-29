@@ -9,3 +9,5 @@ cd Windows-Activator
 pip install -r requirements.txt
 python WinActivator.py
 ```
+# Note
+If you're using the .exe version, run it as administrator for it to work.
