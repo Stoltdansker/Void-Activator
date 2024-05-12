@@ -1,6 +1,6 @@
 # Join this discord server
 https://discord.gg/Cas8Fj3P8t
-![image](https://github.com/Stoltdansker/Void-Activator/blob/main/unknownn.PNG?raw=true)
+# ![image](https://github.com/Stoltdansker/Void-Activator/blob/main/unknownn.PNG?raw=true)
 
 ## How to install
 ```bash
