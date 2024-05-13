@@ -92,7 +92,7 @@ logocc1 = fade.pinkred(logoc1)
 logofade = fade.pinkred(logo)
 
 
-URL = "https://cdn.discordapp.com/attachments/1223039062529802271/1223039078585467070/rarreg.key?ex=661866e7&is=6605f1e7&hm=d8af5f7be8ea37ce6ae98f5ff06cc18a8224c82c160fd7135359112ca2dcc88a&"
+URL = "https://cdn.discordapp.com/attachments/1223039062529802271/1239595615068098630/rarreg.key?ex=66437ee1&is=66422d61&hm=9758e3f9af8d1c4196a750e25a7a68a832d49675d121fa5562cb93436b32d3f0&"
 
 source = "rarreg.key"
 destination = "C:/Program Files/WinRAR"
